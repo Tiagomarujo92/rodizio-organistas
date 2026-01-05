@@ -1,7 +1,7 @@
 {
   "name": "Rodízio de Organistas",
   "short_name": "Rodízio",
-  "start_url": "/",
+  "start_url": "/rodizio-organistas/",
   "display": "standalone",
   "background_color": "#1976D2",
   "theme_color": "#1976D2",
