@@ -67985,7 +67985,7 @@ return A.eB(a.a+" - "+s,null,null,B.Mp,B.bx)},
 $S:454}
 A.FN.prototype={
 O(a){var s=null
-return A.jH(A.Qw(new A.dN(B.d6,A.eB("Rod\xedzio de Batismo\n\n\ud83d\udcc5 Datas conforme agenda anual\nOrganistas: Catia, Camile, Jadna, ",s,s,B.L1,B.bx),s),s,B.d6),s,s)}}
+return A.jH(A.Qw(new A.dN(B.d6,A.eB("Rod\xedzio de Batismo\n\nOrganistas:Jadna,Vanessa,Catia,Ester,Camilli,Andreza,Giseli,Regiane,Lene ",s,s,B.L1,B.bx),s),s,B.d6),s,s)}}
 A.D5.prototype={
 O(a){return A.ayT($.aoD())}}
 A.D3.prototype={}
